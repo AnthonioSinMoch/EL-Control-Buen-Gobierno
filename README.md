@@ -19,3 +19,6 @@ Este proyecto es una herramienta de monitoreo y prevención de faltas administra
 ```bash
 git clone https://github.com/tu-usuario/ControlDashboard.git
 npm start
+## Presentación y Demo
+https://youtu.be/nFNanzPBme4
+https://youtu.be/TLUZikIgZV4
